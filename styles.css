@@ -1,3 +1,18 @@
-div {
-    color: green;
+#main-header {
+    color: purple;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.content {
+    font-size: 16px;
+}
+
+.error {
+    color: red;
+}
+
+.content.error {
+    color: salmon;
 }
