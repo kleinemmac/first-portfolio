@@ -4,6 +4,12 @@ h2 {
     margin-bottom: 0px;
 }
 
+h3 {
+    font-family: 'Ibarra Real Nova', serif;
+    color: #65222C; 
+    margin-bottom: 0px;
+}
+
 #main-header {
     text-align: center;
     background-color: #383B45;
@@ -82,4 +88,28 @@ h2 {
     height: 40px;
     top: -40px;
     right: 85px;
+}
+
+#chico-section {
+    padding-top: 200px;
+}
+
+.pinklinks {
+    background-color: #FFC8CC;
+    border: 3px dotted #65222C;
+    border-radius: 50%;
+    position: absolute;
+    font-size: 32px;
+    font-family: 'Ibarra Real Nova', serif;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+.c1 {
+    width: 200px;
+    height: 200px;
+    top: -100px;
+    right: 75px;
+
 }
