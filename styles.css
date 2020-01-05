@@ -1,18 +1,85 @@
+h2 {
+    font-family: 'Ibarra Real Nova', serif;
+    color: #65222C; 
+    margin-bottom: 0px;
+}
+
 #main-header {
-    color: purple;
-    font-size: 24px;
-    font-weight: 600;
-    text-decoration: underline;
+    text-align: center;
+    background-color: #383B45;
+    height: 150px;
+    color: #FFFAFE;
+    padding-top: 40px;
+    border-bottom: 3px solid #65222C;
 }
 
-.content {
-    font-size: 16px;
+#main-header h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 64px;
 }
 
-.error {
-    color: red;
+#header-pink-band {
+    background-color: #FFC8CC;
+    height: 25px;
 }
 
-.content.error {
-    color: salmon;
+.bold-display-heading {
+    font-weight: 800;
+
+}
+
+.grey-display-heading {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#headshot {
+    z-index: 11;
+    position: relative;
+}
+
+.headshot-circles {
+    background-color: #D8A858;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.hc1 {
+    width: 120px;
+    height: 120px;
+    bottom: -10px;
+    right: 130px;
+    z-index: 12;
+}
+
+.hc2 {
+    width: 40px;
+    height: 40px;
+    bottom: -10px;
+    right: 130px;
+    z-index: 13;
+}
+
+.hc3 {
+    width: 120px;
+    height: 120px;
+    top: -30px;
+    right: 5px;
+    z-index: 10;
+}
+
+.hc4 {
+    width: 70px;
+    height: 70px;
+    top: -30px;
+    right: 100px;
+    z-index: 9;
+}
+
+.hc5 {
+    width: 40px;
+    height: 40px;
+    top: -40px;
+    right: 85px;
 }
