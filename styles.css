@@ -102,8 +102,14 @@ h3 {
     font-size: 32px;
     font-family: 'Ibarra Real Nova', serif;
     text-align: center;
-    vertical-align: middle;
+}
 
+a .pinklinks {
+    color: #383B45;
+}
+
+a:hover .pinklinks {
+    text-decoration: none;
 }
 
 .c1 {
@@ -111,5 +117,27 @@ h3 {
     height: 200px;
     top: -100px;
     right: 75px;
+    line-height: 200px;
+}
 
+.c2 {
+    width: 150px;
+    height: 150px;
+    top: -80px;
+    right: 320px;
+    line-height: 150px;
+}
+
+.c3{
+    width: 130px;
+    height: 130px;
+    top: -60px;
+    left: 75px;
+    line-height: 130px;
+}
+
+#main-footer {
+    background-color: #383B45;
+    height: 40px;
+    border-top: 3px solid #65222C;
 }
