@@ -10,14 +10,14 @@ This is a very simple site and only uses HTML, CSS, and Bootstrap. I used Adobe 
 ## Things I Learned:
 This project helped me get a better handle on proper scaffolding in HTML. It also led me to the (at the time) mind-shattering realization that the z-index exists. At this point, CSS and Bootstrap were major struggles for me. By the end of this project, I felt much more confident in both of those areas and moved on to some online courses in HTML, CSS, and Bootstrap. Some specific concepts I learned while stumbling through this project include:
 
--Adobe xD basics
--basic HTML scaffolding
--how to utilize Bootstrap
--how to write CSS while crying
--how to wrap text using spans
--how to manipulate z-index
--how to embed an image
--the difference between container and container-fluid
--how to manipulate column size
--how to adjust padding, margin, justification, and alignment
--how to utilize Google Fonts
+- Adobe xD basics
+- basic HTML scaffolding
+- how to utilize Bootstrap
+- how to write CSS while crying
+- how to wrap text using spans
+- how to manipulate z-index
+- how to embed an image
+- the difference between container and container-fluid
+- how to manipulate column size
+- how to adjust padding, margin, justification, and alignment
+- how to utilize Google Fonts
