@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.24c7f294.chunk.css",
-    "main.js": "/static/js/main.5c3cd02d.chunk.js",
-    "main.js.map": "/static/js/main.5c3cd02d.chunk.js.map",
+    "main.js": "/static/js/main.9431c0e0.chunk.js",
+    "main.js.map": "/static/js/main.9431c0e0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7a84d802.js",
     "runtime-main.js.map": "/static/js/runtime-main.7a84d802.js.map",
     "static/js/2.95aa69f2.chunk.js": "/static/js/2.95aa69f2.chunk.js",
@@ -12,12 +12,18 @@
     "index.html": "/index.html",
     "static/css/main.24c7f294.chunk.css.map": "/static/css/main.24c7f294.chunk.css.map",
     "static/js/2.95aa69f2.chunk.js.LICENSE.txt": "/static/js/2.95aa69f2.chunk.js.LICENSE.txt",
+    "static/media/Home-Desktop.c850dad6.jpg": "/static/media/Home-Desktop.c850dad6.jpg",
+    "static/media/admin-home.54c8ea72.jpg": "/static/media/admin-home.54c8ea72.jpg",
     "static/media/builder1.bfc9c823.jpg": "/static/media/builder1.bfc9c823.jpg",
     "static/media/dograted.3aa7220e.jpg": "/static/media/dograted.3aa7220e.jpg",
     "static/media/error.a3714ff9.jpg": "/static/media/error.a3714ff9.jpg",
+    "static/media/events-crud.d35581e4.jpg": "/static/media/events-crud.d35581e4.jpg",
     "static/media/faceborkhome.64a382c4.jpg": "/static/media/faceborkhome.64a382c4.jpg",
+    "static/media/illuminate-form.63b54bf6.jpg": "/static/media/illuminate-form.63b54bf6.jpg",
+    "static/media/illuminate-home.f947b9a7.jpg": "/static/media/illuminate-home.f947b9a7.jpg",
     "static/media/app.module.scss": "/static/media/monstera.a38810ee.jpg",
     "static/media/mtghome.e4b341d3.jpg": "/static/media/mtghome.e4b341d3.jpg",
+    "static/media/photouploader.d43baf0c.jpg": "/static/media/photouploader.d43baf0c.jpg",
     "static/media/poke-home.56aa4572.jpg": "/static/media/poke-home.56aa4572.jpg",
     "static/media/poke-items.0528da12.jpg": "/static/media/poke-items.0528da12.jpg",
     "static/media/poke-search.d769f471.jpg": "/static/media/poke-search.d769f471.jpg",
@@ -28,6 +34,6 @@
     "static/js/runtime-main.7a84d802.js",
     "static/js/2.95aa69f2.chunk.js",
     "static/css/main.24c7f294.chunk.css",
-    "static/js/main.5c3cd02d.chunk.js"
+    "static/js/main.9431c0e0.chunk.js"
   ]
 }
